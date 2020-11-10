@@ -9,6 +9,13 @@
 ## Papers
 ### 2020
 #### __AAAI2020__
+* Lifelong Learning with a Changing Action Set [[paper](https://arxiv.org/pdf/1906.01770.pdf)]
+* Lifelong Spectral Clustering [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6045/5901)]
+* Overcoming Catastrophic Forgetting by Neuron-level Plasticity Control [[paper](https://arxiv.org/pdf/1907.13322)]
+* Bi-objective Continual Learning: Learning `New' while Consolidating `Known' [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6060/5916)]
+* Learning from the Past: Continual Meta-Learning with Bayesian Graph Neural Networks [[paper](https://arxiv.org/pdf/1911.04695.pdf)]
+* Residual Continual Learning [[paper](https://arxiv.org/pdf/2002.06774.pdf)]
+
 
 #### __NeurIPS2020__
 * Meta-Consolidation for Continual Learning (__NeurIPS2020__) [[paper](https://arxiv.org/abs/2010.00352?context=cs)]
@@ -71,56 +78,78 @@
 #### __Natrue Communications 2020__
 * Brain-inspired replay for continual learning with artificial neural networks (Natrue Communications 2020) [[paper](https://www.nature.com/articles/s41467-020-17866-2)] [[code](https://github.com/GMvandeVen/brain-inspired-replay)]
 
-### 2019
+### *2019*
+#### __NeurIPS2019__
 * Compacting, Picking and Growing for Unforgetting Continual Learning (NeurIPS2019) [[paper](https://papers.nips.cc/paper/9518-compacting-picking-and-growing-for-unforgetting-continual-learning.pdf)][[code](https://github.com/ivclab/CPG)]
-* Increasingly Packing Multiple Facial-Informatics Modules in A Unified Deep-Learning Model via Lifelong Learning (ICMR2019) [[paper](https://dl.acm.org/doi/10.1145/3323873.3325053)][[code](https://github.com/ivclab/PAE)]
-* Towards Training Recurrent Neural Networks for Lifelong Learning (Neural Computation 2019) [[paper](https://arxiv.org/pdf/1811.07017.pdf)]
-* IL2M: Class Incremental Learning With Dual Memory (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Belouadah_IL2M_Class_Incremental_Learning_With_Dual_Memory_ICCV_2019_paper.pdf)]
-* Incremental Learning Using Conditional Adversarial Networks (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Xiang_Incremental_Learning_Using_Conditional_Adversarial_Networks_ICCV_2019_paper.html)]
-* Adaptive Deep Models for Incremental Learning: Considering Capacity Scalability and Sustainability (KDD2019) [[paper](http://www.lamda.nju.edu.cn/yangy/KDD19.pdf)]
 * Random Path Selection for Incremental Learning (NeurIPS2019) [[paper](https://arxiv.org/pdf/1906.01120.pdf)]
 * Online Continual Learning with Maximal Interfered Retrieval (NeurIPS2019) [[paper](http://papers.neurips.cc/paper/9357-online-continual-learning-with-maximal-interfered-retrieval)]
+#### __ICMR2019__
+* Increasingly Packing Multiple Facial-Informatics Modules in A Unified Deep-Learning Model via Lifelong Learning (ICMR2019) [[paper](https://dl.acm.org/doi/10.1145/3323873.3325053)][[code](https://github.com/ivclab/PAE)]
+#### __Neural Computation 2019__
+* Towards Training Recurrent Neural Networks for Lifelong Learning (Neural Computation 2019) [[paper](https://arxiv.org/pdf/1811.07017.pdf)]
+#### __ICCV2019__
+* IL2M: Class Incremental Learning With Dual Memory (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Belouadah_IL2M_Class_Incremental_Learning_With_Dual_Memory_ICCV_2019_paper.pdf)]
+* Incremental Learning Using Conditional Adversarial Networks (ICCV2019) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Xiang_Incremental_Learning_Using_Conditional_Adversarial_Networks_ICCV_2019_paper.html)]
 * Overcoming Catastrophic Forgetting with Unlabeled Data in the Wild (ICCV2019) [[paper](https://arxiv.org/pdf/1903.12648.pdf)]
 * Continual Learning by Asymmetric Loss Approximation with Single-Side Overestimation (ICCV2019) [[paper](https://arxiv.org/pdf/1908.02984.pdf)]
 * Lifelong GAN: Continual Learning for Conditional Image Generation (ICCV2019) [[paper](https://arxiv.org/pdf/1907.10107.pdf)]
-* Continual learning of context-dependent processing in neural networks (Nature Machine Intelligence 2019) [[paper](https://rdcu.be/bOaa3)] [[code](https://github.com/beijixiong3510/OWM)]
+#### __KDD2019__
+* Adaptive Deep Models for Incremental Learning: Considering Capacity Scalability and Sustainability (KDD2019) [[paper](http://www.lamda.nju.edu.cn/yangy/KDD19.pdf)]
+#### __CVPR2019__
 * Large Scale Incremental Learning (CVPR2019) [[paper](https://arxiv.org/abs/1905.13260)] [[code](https://github.com/wuyuebupt/LargeScaleIncrementalLearning)]
 * Learning a Unified Classifier Incrementally via Rebalancing (CVPR2019) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hou_Learning_a_Unified_Classifier_Incrementally_via_Rebalancing_CVPR_2019_paper.pdf)] [[code](https://github.com/hshustc/CVPR19_Incremental_Learning)]
 * Learning Without Memorizing (CVPR2019) [[paper](https://arxiv.org/pdf/1811.08051.pdf)]
 * Learning to Remember: A Synaptic Plasticity Driven Framework for Continual Learning (CVPR2019) [[paper](https://arxiv.org/abs/1904.03137)]
 * Task-Free Continual Learning (CVPR2019) [[paper](https://arxiv.org/pdf/1812.03596.pdf)]
+#### __Nature Machine Intelligence 2019__
+* Continual learning of context-dependent processing in neural networks (Nature Machine Intelligence 2019) [[paper](https://rdcu.be/bOaa3)] [[code](https://github.com/beijixiong3510/OWM)]
+#### __ICML2019__
 * Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting (ICML2019) [[paper](https://arxiv.org/abs/1904.00310)]
+#### __ICLR2019__
 * Efficient Lifelong Learning with A-GEM (ICLR2019) [[paper](https://openreview.net/forum?id=Hkf2_sC5FX)] [[code](https://github.com/facebookresearch/agem)]
 * Learning to Learn without Forgetting By Maximizing Transfer and Minimizing Interference (ICLR2019) [[paper](https://openreview.net/forum?id=B1gTShAct7)] [[code](https://github.com/mattriemer/mer)]
 * Overcoming Catastrophic Forgetting via Model Adaptation (ICLR2019) [[paper](https://openreview.net/forum?id=ryGvcoA5YX)]
 * A comprehensive, application-oriented study of catastrophic forgetting in DNNs (ICLR2019) [[paper](https://openreview.net/forum?id=BkloRs0qK7)]
 
 ### 2018
+#### __NIPS2018__
 * Memory Replay GANs: learning to generate images from new categories without forgetting (NIPS2018) [[paper](https://arxiv.org/abs/1809.02058)] [[code](https://github.com/WuChenshen/MeRGAN)]
 * Reinforced Continual Learning (NIPS2018) [[paper](http://papers.nips.cc/paper/7369-reinforced-continual-learning.pdf)] [[code](https://github.com/xujinfan/Reinforced-Continual-Learning)]
 * Online Structured Laplace Approximations for Overcoming Catastrophic Forgetting (NIPS2018) [[paper](http://papers.nips.cc/paper/7631-online-structured-laplace-approximations-for-overcoming-catastrophic-forgetting.pdf)]
+#### __ICPR2018__
 * Rotate your Networks: Better Weight Consolidation and Less Catastrophic Forgetting (R-EWC) (ICPR2018) [[paper](https://arxiv.org/abs/1802.02950)] [[code](https://github.com/xialeiliu/RotateNetworks)]
+#### __BMVC2018__
 * Exemplar-Supported Generative Reproduction for Class Incremental Learning (BMVC2018) [[paper](http://bmvc2018.org/contents/papers/0325.pdf)] [[code](https://github.com/TonyPod/ESGR)]
+#### __ECCV2018__
 * End-to-End Incremental Learning (ECCV2018)[[paper](https://arxiv.org/abs/1807.09536)][[code](https://github.com/fmcp/EndToEndIncrementalLearning)]
 * Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence (ECCV2018)[[paper](http://arxiv-export-lb.library.cornell.edu/abs/1801.10112)]
 * Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights (ECCV2018) [[paper](https://arxiv.org/abs/1801.06519)] [[code](https://github.com/arunmallya/piggyback)]
 * Memory Aware Synapses: Learning what (not) to forget (ECCV2018) [[paper](https://arxiv.org/abs/1711.09601)] [[code](https://github.com/rahafaljundi/MAS-Memory-Aware-Synapses)]
 * Lifelong Learning via Progressive Distillation and Retrospection (ECCV2018) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Saihui_Hou_Progressive_Lifelong_Learning_ECCV_2018_paper.pdf)]
+#### __CVPR2018__
 * PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning (CVPR2018) [[paper](https://arxiv.org/abs/1711.05769)] [[code](https://github.com/arunmallya/packnet)]
+#### __ICML2018__
 * Overcoming Catastrophic Forgetting with Hard Attention to the Task (ICML2018) [[paper](http://proceedings.mlr.press/v80/serra18a.html)][[code](https://github.com/joansj/hat)]
+#### __ICLR2018__
 * Lifelong Learning with Dynamically Expandable Networks (ICLR2018) [[paper](https://openreview.net/forum?id=Sk7KsfW0-)]
 * FearNet: Brain-Inspired Model for Incremental Learning (ICLR2018) [[paper](https://openreview.net/forum?id=SJ1Xmf-Rb)]
 
 ### 2017
+#### __ICCV2017__
 * Incremental Learning of Object Detectors Without Catastrophic Forgetting (ICCV2017) [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Shmelkov_Incremental_Learning_of_ICCV_2017_paper.html)]
+* Encoder Based Lifelong Learning (ICCV2017) [[paper](https://arxiv.org/abs/1704.01920)]
+#### __PNAS2017__
 * Overcoming catastrophic forgetting in neural networks (EWC) (PNAS2017) [[paper](https://arxiv.org/abs/1612.00796)] [[code](https://github.com/ariseff/overcoming-catastrophic)][[code](https://github.com/stokesj/EWC)]
+#### __ICML2017__
 * Continual Learning Through Synaptic Intelligence (ICML2017) [[paper](http://proceedings.mlr.press/v70/zenke17a.html)] [[code](https://github.com/ganguli-lab/pathint)]
+#### __NIPS2017__
 * Gradient Episodic Memory for Continual Learning (NIPS2017) [[paper](https://arxiv.org/abs/1706.08840)] [[code](https://github.com/facebookresearch/GradientEpisodicMemory)]
-* iCaRL: Incremental Classifier and Representation Learning (CVPR2017) [[paper](https://arxiv.org/abs/1611.07725)] [[code](https://github.com/srebuffi/iCaRL)]
 * Continual Learning with Deep Generative Replay (NIPS2017) [[paper](https://arxiv.org/abs/1705.08690)] [[code](https://github.com/kuc2477/pytorch-deep-generative-replay)]
 * Overcoming Catastrophic Forgetting by Incremental Moment Matching (NIPS2017) [[paper](https://arxiv.org/abs/1703.08475)] [[code](https://github.com/btjhjeon/IMM_tensorflow)]
+#### __CVPR2017__
+* iCaRL: Incremental Classifier and Representation Learning (CVPR2017) [[paper](https://arxiv.org/abs/1611.07725)] [[code](https://github.com/srebuffi/iCaRL)]
 * Expert Gate: Lifelong Learning with a Network of Experts (CVPR2017) [[paper](https://arxiv.org/abs/1611.06194)]
-* Encoder Based Lifelong Learning (ICCV2017) [[paper](https://arxiv.org/abs/1704.01920)]
+
 
 
 ## Workshops
@@ -131,7 +160,8 @@
 
 
 ## Labs
-
+1. [Eric Eaton](https://www.seas.upenn.edu/~eeaton/) et al. Department of Computer and Information Science GRASP (General Robotics, Automation, Sensing & Perception) Lab University of Pennsylvania [Lifelong Machine Learning](https://www.grasp.upenn.edu/labs/lifelong-machine-learning) [[projects](https://www.grasp.upenn.edu/projects)]
+2. [Liu Bing](https://www.cs.uic.edu/~liub/) et al. Department of Computer Science University of Illinois at Chicago (UIC). [Lifelong machine learning](https://www.cs.uic.edu/~liub/lifelong-learning.html)
 
 ## Challenge or Competitions
 1. [Lifelong Robotic Vision Challenge IROS 2019](https://lifelong-robotic-vision.github.io/)
