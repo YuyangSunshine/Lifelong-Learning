@@ -8,6 +8,9 @@
 
 ## Papers
 ### 2020
+#### __AAAI2020__
+
+#### __NeurIPS2020__
 * Meta-Consolidation for Continual Learning (__NeurIPS2020__) [[paper](https://arxiv.org/abs/2010.00352?context=cs)]
 * Understanding the Role of Training Regimes in Continual Learning (NeurIPS2020) [[paper](https://arxiv.org/pdf/2006.06958.pdf)]
 * Continual Learning with Node-Importance based Adaptive Group Sparse Regularization (NeurIPS2020) [[paper](https://arxiv.org/pdf/2003.13726.pdf)]
@@ -18,7 +21,9 @@
 * Dark Experience for General Continual Learning: a Strong, Simple Baseline (NeurIPS2020) [[paper](https://arxiv.org/pdf/2004.07211.pdf)] [[code](https://github.com/aimagelab/mammoth)]
 * GAN Memory with No Forgetting (NeurIPS2020) [[paper](https://arxiv.org/pdf/2006.07543.pdf)]
 * Calibrating CNNs for Lifelong Learning (NeurIPS2020) [[paper](http://people.ee.duke.edu/~lcarin/Final_Calibration_Incremental_Learning_NeurIPS_2020.pdf)]
+#### __BMVC2020__
 * Initial Classifier Weights Replay for Memoryless Class Incremental Learning (BMVC2020) [[paper](https://arxiv.org/pdf/2008.13710.pdf)]
+#### __ECCV2020__
 * Adversarial Continual Learning (ECCV2020) [[paper](https://arxiv.org/abs/2003.09553)] [[code](https://github.com/facebookresearch/Adversarial-Continual-Learning)]
 * REMIND Your Neural Network to Prevent Catastrophic Forgetting (ECCV2020) [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530460.pdf)] [[code](https://github.com/tyler-hayes/REMIND)]
 * Incremental Meta-Learning via Indirect Discriminant Alignment (ECCV2020) [[paper](https://arxiv.org/abs/2002.04162)]
@@ -33,11 +38,15 @@
 * GDumb: A Simple Approach that Questions Our Progress in Continual Learning (ECCV2020) [[paper](http://www.robots.ox.ac.uk/~tvg/publications/2020/gdumb.pdf)]
 * Imbalanced Continual Learning with Partitioning Reservoir Sampling (ECCV2020) [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580409.pdf)]
 * Topology-Preserving Class-Incremental Learning (ECCV2020) [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640256.pdf)]
+#### __CIKM2020__
 * GraphSAIL: Graph Structure Aware Incremental Learning for Recommender Systems (CIKM2020)[[paper](https://arxiv.org/abs/2008.13517)]
+#### __IJCNN2020__
 * OvA-INN: Continual Learning with Invertible Neural Networks (IJCNN2020) [[paper](https://arxiv.org/abs/2006.13772)]
+#### __ICLM2020__
 * XtarNet: Learning to Extract Task-Adaptive Representation for Incremental Few-Shot Learning (ICLM2020) [[paper](https://arxiv.org/pdf/2003.08561.pdf)]
 * Optimal Continual Learning has Perfect Memory and is NP-HARD (ICML2020) [[paper](https://arxiv.org/pdf/2006.05188.pdf)]
 * Neural Topic Modeling with Continual Lifelong Learning (ICML2020) [[paper](https://arxiv.org/pdf/2006.10909.pdf)]
+#### __CVPR2020__
 * Semantic Drift Compensation for Class-Incremental Learning (CVPR2020) [[paper](https://arxiv.org/pdf/2004.00440.pdf)] [[code](https://github.com/yulu0724/SDC-IL)]
 * Few-Shot Class-Incremental Learning (CVPR2020) [[paper](https://arxiv.org/pdf/2004.10956.pdf)]
 * Modeling the Background for Incremental Learning in Semantic Segmentation (CVPR2020) [[paper](https://arxiv.org/pdf/2002.00718.pdf)]
@@ -48,7 +57,9 @@
 * Continual Learning with Extended Kronecker-factored Approximate Curvature (CVPR2020) [[paper](https://arxiv.org/abs/2004.07507)]
 * iTAML : An Incremental Task-Agnostic Meta-learning Approach (CVPR2020) [[paper](https://arxiv.org/pdf/2003.11652.pdf)] [[code](https://github.com/brjathu/iTAML)]
 * Mnemonics Training: Multi-Class Incremental Learning without Forgetting (CVPR2020) [[paper](https://arxiv.org/pdf/2002.10211.pdf)] [[code](https://github.com/yaoyao-liu/mnemonics)]
+#### __WACV2020__
 * ScaIL: Classifier Weights Scaling for Class Incremental Learning (WACV2020) [[paper](https://arxiv.org/abs/2001.05755)]
+#### __ICLR2020__
 * Scalable and Order-robust Continual Learning with Additive Parameter Decomposition (ICLR2020) [[paper](https://openreview.net/forum?id=r1gdj2EKPB)]
 * Continual Learning with Adaptive Weights (CLAW) (ICLR2020) [[paper](https://openreview.net/forum?id=Hklso24Kwr)]
 * Continual Learning with Bayesian Neural Networks for Non-Stationary Data (ICLR2020) [[paper](https://openreview.net/forum?id=SJlsFpVtDB)]
@@ -57,6 +68,7 @@
 * Functional Regularisation for Continual Learning with Gaussian Processes (ICLR2020) [[paper](https://openreview.net/forum?id=HkxCzeHFDB)]
 * Continual learning with hypernetworks (ICLR2020) [[paper](https://openreview.net/forum?id=SJgwNerKvB)]
 * Compositional Continual Language Learning (ICLR2020) [[paper](https://openreview.net/forum?id=rklnDgHtDS)]
+#### __Natrue Communications 2020__
 * Brain-inspired replay for continual learning with artificial neural networks (Natrue Communications 2020) [[paper](https://www.nature.com/articles/s41467-020-17866-2)] [[code](https://github.com/GMvandeVen/brain-inspired-replay)]
 
 ### 2019
