@@ -10,7 +10,12 @@
 
 ## Papers
 ### 2020
+#### __ICRA2020__
+* OpenLORIS-Object: A Robotic Vision Dataset and Benchmark for Lifelong Deep Learning. [[paper](https://arxiv.org/pdf/1911.06487.pdf)]
+
+
 #### __AAAI2020__
+* Learning on the Job: Online Lifelong and Continual Learning. [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/7079/6933)]
 * Lifelong Learning with a Changing Action Set [[paper](https://arxiv.org/pdf/1906.01770.pdf)]
 * Lifelong Spectral Clustering [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/6045/5901)]
 * Overcoming Catastrophic Forgetting by Neuron-level Plasticity Control [[paper](https://arxiv.org/pdf/1907.13322)]
