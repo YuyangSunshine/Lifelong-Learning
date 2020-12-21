@@ -1,6 +1,8 @@
 # Lifelong-Learning
 
 ## Survey
+* Continual Learning with Neural Networks: A Review. (ACM 2019) [[_paper_](https://arxiv.org/pdf/1802.07569.pdf)]
+* Continual Lifelong Learning in Natural Language Processing: A Survey (COLING 2020)[[_paper_](https://arxiv.org/pdf/2012.09823.pdf)]
 * Class-incremental learning: survey and performance evaluation (arXiv 2020) [[_paper_](https://arxiv.org/abs/2010.15277)]
 * A Comprehensive Study of Class Incremental Learning Algorithms for Visual Tasks (arXiv 2020) [[_paper_](https://arxiv.org/pdf/2011.01844.pdf)]
 * Continual learning: A comparative study on how to defy forgetting in classification tasks (arXiv 2019) [[_paper_](https://arxiv.org/pdf/1909.08383.pdf)]
