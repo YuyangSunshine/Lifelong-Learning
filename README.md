@@ -175,9 +175,10 @@
 2. [Continual Learning in Computer Vision Challenge CVPR 2020](https://sites.google.com/view/clvision2020/challenge?authuser=0)
 
 ## Benchmark Comparisons & Codes
-1. Continual-Learning-Benchmark (pytorch) https://github.com/GT-RIPL/Continual-Learning-Benchmark
-2. Framework for Analysis of Class-Incremental Learning with 12 state-of-the-art methods and 3 baselines. 
-3. A continual learning survey: Defying forgetting in classification tasks. (TPAMI)
+1. Continual-Learning-Benchmark (pytorch)[[code](https://github.com/GT-RIPL/Continual-Learning-Benchmark)]
+2. Framework for Analysis of Class-Incremental Learning with 12 state-of-the-art methods and 3 baselines. [[code](https://github.com/mmasana/FACIL)]
+3. A continual learning survey: Defying forgetting in classification tasks. (TPAMI) [[code](https://github.com/Mattdl/CLsurvey)]
+
 -----------------------
 ## Thanks
 _The above lists are based on Xialei Liu's [Awesome Incremental Learning / Lifelong learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)._
