@@ -9,6 +9,11 @@
 * Continual Lifelong Learning with Neural Networks: A Review (Neural Networks) [[_paper_](https://arxiv.org/abs/1802.07569)]
 
 ## Papers
+### 2021
+#### __CVPR2021__
+* PLOP: Learning without Forgetting for Continual Semantic Segmentation. [[paper](https://arxiv.org/pdf/2011.11390.pdf)][[code](https://github.com/arthurdouillard/CVPR2021_PLOP)]
+
+
 ### 2020
 #### __ICRA2020__
 * OpenLORIS-Object: A Robotic Vision Dataset and Benchmark for Lifelong Deep Learning. [[paper](https://arxiv.org/pdf/1911.06487.pdf)]
