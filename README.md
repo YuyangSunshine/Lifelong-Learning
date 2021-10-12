@@ -23,11 +23,13 @@
 * Synthesized Feature Based Few-Shot Class-Incremental Learning on a Mixture of Subspaces. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.pdf)]
 * Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning. [[paper](https://0633e92166c0a27ea1aa-ab47878a9e45eb9e2f15be38a59f867e.ssl.cf1.rackcdn.com/YNCRXITS-1851919-1462352-Upload-1633570406.pdf)]
 * Striking a Balance Between Stability and Plasticity for Class-Incremental Learning. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Striking_a_Balance_Between_Stability_and_Plasticity_for_Class-Incremental_Learning_ICCV_2021_paper.pdf)]
-* 
 
 #### __CVPR2021__
 * PLOP: Learning without Forgetting for Continual Semantic Segmentation. [[paper](https://arxiv.org/pdf/2011.11390.pdf)][[code](https://github.com/arthurdouillard/CVPR2021_PLOP)]
-
+* Rainbow Memory: Continual Learning with a Memory of Diverse Samples. [[paper](https://arxiv.org/abs/2103.17230)][[code](https://github.com/clovaai/rainbow-memory)]
+* Towards Open World Object Detection(ORE). [[paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2103.02603)][[code](https://link.zhihu.com/?target=https%3A//github.com/JosephKJ/OWOD)]
+* Image De-raining via Continual Learning. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Image_De-Raining_via_Continual_Learning_CVPR_2021_paper.pdf)][[code](https://github.com/jiexiaou/Image-Deraining-via-Continual-Learning)]
+* DER: Dynamically Expandable Representation for Class Incremental Learning. [[paper](https://arxiv.org/pdf/2103.16788.pdf)][[code](https://github.com/Rhyssiyan/DER-ClassIL.pytorch)]
 
 ### 2020
 #### __ICRA2020__
