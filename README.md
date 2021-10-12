@@ -10,6 +10,21 @@
 
 ## Papers
 ### 2021
+
+#### __ICCV2021__
+* Lifelong Infinite Mixture Model Based on Knowledge-Driven Dirichlet Process. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ye_Lifelong_Infinite_Mixture_Model_Based_on_Knowledge-Driven_Dirichlet_Process_ICCV_2021_paper.pdf)][[poster](https://42bc4161a075f7e50e6f-a3bc3137033c5da42be80ce1198f9076.ssl.cf1.rackcdn.com//1852047-1633456123.pdf)]
+* Continual Prototype Evolution: Learning Online From Non-Stationary Data Streams. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/De_Lange_Continual_Prototype_Evolution_Learning_Online_From_Non-Stationary_Data_Streams_ICCV_2021_paper.pdf)]
+* RECALL: Replay-Based Continual Learning in Semantic Segmentation. [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Maracani_RECALL_Replay-Based_Continual_Learning_in_Semantic_Segmentation_ICCV_2021_paper.html)]
+* Online Continual Learning With Natural Distribution Shifts: An Empirical Study With Visual Data. [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Cai_Online_Continual_Learning_With_Natural_Distribution_Shifts_An_Empirical_Study_ICCV_2021_paper.html)]
+* Wanderlust: Online Continual Object Detection in the Real World. [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Wanderlust_Online_Continual_Object_Detection_in_the_Real_World_ICCV_2021_paper.html)]
+* Co2L: Contrastive Continual Learning. [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Cha_Co2L_Contrastive_Continual_Learning_ICCV_2021_paper.html)]
+* Few-Shot and Continual Learning With Attentive Independent Mechanisms. [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Lee_Few-Shot_and_Continual_Learning_With_Attentive_Independent_Mechanisms_ICCV_2021_paper.html)]
+* Structure-From-Sherds: Incremental 3D Reassembly of Axially Symmetric Pots From Unordered and Mixed Fragment Collections. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Hong_Structure-From-Sherds_Incremental_3D_Reassembly_of_Axially_Symmetric_Pots_From_Unordered_ICCV_2021_paper.pdf)]
+* Synthesized Feature Based Few-Shot Class-Incremental Learning on a Mixture of Subspaces. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.pdf)]
+* Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning. [[paper](https://0633e92166c0a27ea1aa-ab47878a9e45eb9e2f15be38a59f867e.ssl.cf1.rackcdn.com/YNCRXITS-1851919-1462352-Upload-1633570406.pdf)]
+* Striking a Balance Between Stability and Plasticity for Class-Incremental Learning. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Striking_a_Balance_Between_Stability_and_Plasticity_for_Class-Incremental_Learning_ICCV_2021_paper.pdf)]
+* 
+
 #### __CVPR2021__
 * PLOP: Learning without Forgetting for Continual Semantic Segmentation. [[paper](https://arxiv.org/pdf/2011.11390.pdf)][[code](https://github.com/arthurdouillard/CVPR2021_PLOP)]
 
