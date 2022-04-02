@@ -9,6 +9,9 @@
 * Continual Lifelong Learning with Neural Networks: A Review (Neural Networks) [[_paper_](https://arxiv.org/abs/1802.07569)]
 
 ## Papers
+### 2022
+
+
 ### 2021
 
 #### __ICCV2021__
@@ -182,8 +185,8 @@
 
 
 ## Workshops
-1. [4th Lifelong Learning Workshop at ICML 2020](https://lifelongml.github.io/)
-2. [Workshop on Continual Learning at ICML 2020](https://icml.cc/Conferences/2020/Schedule?showEvent=5743)
+1. [CVPR 2022 Workshop on Continual Learning](https://sites.google.com/view/clvision2022/challenge)
+2. [Workshop on Continual Learning at ICML 2020](https://sites.google.com/view/cl-icml/)
 3. [Continual Learning in Computer Vision Workshop CVPR 2020](https://sites.google.com/view/clvision2020/overview)
 4. [Continual learning workshop NeurIPS 2018](https://sites.google.com/view/continual2018/home?authuser=0)
 
@@ -191,6 +194,7 @@
 ## Labs
 1. [Eric Eaton](https://www.seas.upenn.edu/~eeaton/) et al. Department of Computer and Information Science GRASP (General Robotics, Automation, Sensing & Perception) Lab University of Pennsylvania [Lifelong Machine Learning](https://www.grasp.upenn.edu/labs/lifelong-machine-learning) [[projects](https://www.grasp.upenn.edu/projects)]
 2. [Liu Bing](https://www.cs.uic.edu/~liub/) et al. Department of Computer Science University of Illinois at Chicago (UIC). [Lifelong machine learning](https://www.cs.uic.edu/~liub/lifelong-learning.html)
+3. [Vincenzo Lomonaco](https://www.continualai.org/activities/lab) ContinualAI Lab
 
 ## Challenge or Competitions
 1. [Lifelong Robotic Vision Challenge IROS 2019](https://lifelong-robotic-vision.github.io/)
